@@ -4,7 +4,7 @@ public class HelloWorld {
 	int age=10;
 	System.out.println("Hello, World");
 	System.out.println("mi age is " + age);
-	// test
+	// dokimi
  }
 
 }
